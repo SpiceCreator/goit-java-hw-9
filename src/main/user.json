@@ -1,0 +1,26 @@
+[
+	{
+		"name":"alice",
+		"age":21,
+		"city":"Kyiv",
+		"country":"Ukraine"
+	},
+	{
+		"name":"ryan",
+		"age":30,
+		"city":"Berlin",
+		"country":"Germany"
+	},
+	{
+		"name":"jack",
+		"age":40,
+		"city":"Paris",
+		"country":"France"
+	},
+	{
+		"name":"rasel",
+		"age":31,
+		"city":"Madrid",
+		"country":"Spain"
+	}
+]
